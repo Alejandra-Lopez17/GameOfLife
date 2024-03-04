@@ -1,4 +1,4 @@
-//Nombre: Yovana Alejandra Hinestroza Lopez
+//Nombre: Alejandra Lopez
 import java.util.Random;
 
 // Clase principal del Juego de la Vida
